@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
-- [General requirements of the exercise](https://github.com/SilvanaJ90/intern_tul_test/edit/main/README.md#general-requirements-of-the-exercise)
-- [General functionalities](https://github.com/SilvanaJ90/intern_tul_test/edit/main/README.md#general-functionalities)
-- [Why did I choose this exercise and how did I solve it?](https://github.com/SilvanaJ90/intern_tul_test/edit/main/README.md#why-did-i-choose-this-exercise-and-how-did-i-solve-it)
-- [How to Start It](https://github.com/SilvanaJ90/intern_tul_test/edit/main/README.md#how-to-start-it)
-- [Authors](https://github.com/SilvanaJ90/intern_tul_test/edit/main/README.md#authors)
+- [General requirements of the exercise](https://github.com/SilvanaJ90/intern_tul_test#general-requirements-of-the-exercise)
+- [General functionalities](https://github.com/SilvanaJ90/intern_tul_test#general-functionalities)
+- [Why did I choose this exercise and how did I solve it?](https://github.com/SilvanaJ90/intern_tul_test#why-did-i-choose-this-exercise-and-how-did-i-solve-it)
+- [How to Start It](https://github.com/SilvanaJ90/intern_tul_test#how-to-start-it)
+- [Authors](https://github.com/SilvanaJ90/intern_tul_test#authors)
 
 
 ## General requirements of the exercise
